@@ -1,0 +1,18 @@
+scheme: "Cyberpresso"
+author: "n3m1k (https://github.com/N3M1K)"
+base00: "12141a" # Background
+base01: "1c1f26" # Lighter Background (Status bar)
+base02: "2a2e38" # Selection Background
+base03: "3e4552" # Comments, Invisibles
+base04: "777777" # Dark Foreground (Used for status bars)
+base05: "a4a8ae" # Default Foreground, Caret, Delimiters
+base06: "cccccc" # Light Foreground
+base07: "d9dcdf" # Lightest Foreground
+base08: "c95a5a" # Variables, XML Tags
+base09: "e37349" # Integers, Boolean, Constants
+base0A: "e6ae5c" # Classes, Search Highlight
+base0B: "8ba563" # Strings, Inherited Class
+base0C: "507b9e" # Support, Regular Expressions
+base0D: "5a86a8" # Functions, Methods, Attribute IDs
+base0E: "8a719c" # Keywords, Storage, Selector
+base0F: "a3624c" # Deprecated, Opening/Closing Embedded Tag
