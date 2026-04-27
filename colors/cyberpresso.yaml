@@ -15,4 +15,4 @@ base0B: "8ba563" # Strings, Inherited Class
 base0C: "507b9e" # Support, Regular Expressions
 base0D: "5a86a8" # Functions, Methods, Attribute IDs
 base0E: "8a719c" # Keywords, Storage, Selector
-base0F: "a3624c" # Deprecated, Opening/Closing Embedded Tag
+base0F: "335659" # Deprecated, Opening/Closing Embedded Tag
